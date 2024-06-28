@@ -1,2 +1,3 @@
 # Arijit-demo
-This is my repository
+This is my first repository
+Author-Arijit Maity
